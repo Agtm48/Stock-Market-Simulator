@@ -1,4 +1,4 @@
-# FinalProject
+# Stock Market Game
 
 character.py: This Python file contains a BusinessPerson class, which controls the main activity and finance handling of the user.
   - The name and the finance are stored in variables which are pushed during the constructor __init__() method to the rest of the code.
